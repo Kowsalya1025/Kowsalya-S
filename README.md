@@ -65,15 +65,15 @@ Git | GitHub | VS Code
 
 <p align="center">
 
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/Kowsalya_30/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-220%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/ki27csbs30" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-650%2B-orange?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/kit27.csbs30" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Beginner-0052CC?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
@@ -104,7 +104,7 @@ Git | GitHub | VS Code
 ## 🔗 Codolio Profile  
 
 <p align="center">
-  <a href="https://codolio.com/profile/YOUR_USERNAME" target="_blank">
+  <a href="https://codolio.com/profile/Kowsalya_" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-View%20Profile-6A00FF?style=for-the-badge" />
   </a>
 </p>
