@@ -3,54 +3,100 @@
 <h2 align="center">Hi, I'm Kowsalya S 👋</h2>
 
 <p align="center">
-Strong Computer Science student passionate about Software Development, DSA, and Full Stack Web Development.
+<strong>
+I am an enthusiastic Computer Science student with a strong foundation in programming, data structures, and web development.  
+I aim to start my career as a Software Engineer and contribute to meaningful projects while continuously learning and growing in the tech field.
+</strong>
+</p>
+
+<p align="center">
+<strong>
+I enjoy building real-world applications and solving problems using code.  
+My goal is to strengthen my skills in DSA and backend development using Node.js and SQL, and to become a skilled Software Developer.
+</strong>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Computer Science student  
-- 💻 Interested in Full Stack Development  
-- 🧠 Strong focus on DSA & Problem Solving  
-- 🔥 Solved 900+ coding problems  
-- 🎯 Goal: Become a Software Developer  
+## 🚀 Professional Highlights  
+- Strong in **DSA & OOP**  
+- Internship experience in **Web Development**  
+- Built **real-world projects**  
+- Active in **competitive programming**  
+
+---
+
+## 📘 Currently Learning  
+- Advanced **DSA**  
+- Backend using **Node.js**  
+- Full-stack (**React + Node**)  
 
 ---
 
 ## 🛠️ Skills  
 
-**Languages:** Java, JavaScript  
-**Frontend:** HTML, CSS, React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code  
+### 💻 Languages  
+Java | JavaScript  
+
+### 🌐 Frontend  
+HTML | CSS | React  
+
+### ⚙️ Backend  
+Node.js | Express  
+
+### 🗄️ Database  
+MongoDB | MySQL  
+
+### 🧰 Tools  
+Git | GitHub | VS Code  
 
 ---
+
 
 ## 📂 Projects  
 
-- To-Do List App – Task manager with localStorage  
-- Portfolio Website – Responsive personal portfolio  
-- Food Ordering App – Cart system with UI animations  
+- **To-Do List App** – Task manager with real-time updates and localStorage  
+- **Portfolio Website** – Responsive site showcasing skills and projects  
+- **Food Ordering App** – Interactive app with cart and category-based menu  
 
 ---
 
-## 🌟 Profiles  
+## 🌟 Coding Profiles  
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-220%2B-FFA116?style=for-the-badge&logo=leetcode" />
-</a>
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-220%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-650%2B-orange?style=for-the-badge&logo=codechef" />
-</a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-650%2B-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-Beginner-0052CC?style=for-the-badge&logo=codeforces" />
-</a>
+  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Beginner-0052CC?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kowsalya1025&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kowsalya1025&theme=radical" />
+</p>
+
+---
+
+## 📊 Codolio Heatmap  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kowsalya1025&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +111,9 @@ Strong Computer Science student passionate about Software Development, DSA, and 
 
 ---
 
-## 📬 Connect  
+## 📬 Contact  
+
+📧 kowsalyaselvaraj1003@gmail.com   
 
 <p align="center">
 
