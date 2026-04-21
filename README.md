@@ -1,115 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kowsalya%20S">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Kowsalya%20S&fontSize=55&fontColor=ffffff&animation=twinkling" />
 
-<h1 align="center">Hi 👋, I'm Kowsalya S</h1>
+<h2 align="center">Hi, I'm Kowsalya S 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;DSA+Enthusiast;Full+Stack+Learner;Problem+Solver&center=true&width=500&height=45">
+Strong Computer Science student passionate about Software Development, DSA, and Full Stack Web Development.
 </p>
 
 ---
 
-## 💫 About Me  
-
-🎓 Pre-final year **Computer Science Student**  
-💻 Passionate about **Software Development & Problem Solving**  
-🚀 Interested in **Full Stack Development & Backend Engineering**  
-🔥 Solved **930+ coding problems** across platforms  
-
----
-
-## 🚀 Professional Highlights  
-
-✔ Strong in **Data Structures & OOP**  
-✔ Internship experience at **Ether Infotech**  
-✔ Built **interactive real-world projects**  
-✔ Active in **competitive programming contests**  
+## 🚀 About Me  
+- 🎓 Computer Science student  
+- 💻 Interested in Full Stack Development  
+- 🧠 Strong focus on DSA & Problem Solving  
+- 🔥 Solved 900+ coding problems  
+- 🎯 Goal: Become a Software Developer  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
-### 💻 Languages  
-Java | JavaScript  
-
-### 🌐 Frontend  
-HTML | CSS  
-
-### ⚙️ Backend  
-Node.js  
-
-### 🗄️ Database  
-SQL  
-
-### 🔧 Tools  
-Git | GitHub  
+**Languages:** Java, JavaScript  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects  
 
-🔹 **To-Do List App**  
-- Task manager with localStorage & dynamic UI  
-
-🔹 **Portfolio Website**  
-- Fully responsive personal website  
-
-🔹 **Food Ordering App**  
-- Cart system, login UI, animations, category filtering  
+- To-Do List App – Task manager with localStorage  
+- Portfolio Website – Responsive personal portfolio  
+- Food Ordering App – Cart system with UI animations  
 
 ---
 
-## 🏆 Achievements  
-
-🏅 75-day coding streak (CodeChef)  
-🏅 75+ contests participated  
-🏅 930+ problems solved  
-🏅 Hackathon participant (24hr & 36hr)  
-
----
-
-## 📊 Coding Profiles  
+## 🌟 Profiles  
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-220+-FFA116?style=for-the-badge&logo=leetcode" />
-<img src="https://img.shields.io/badge/CodeChef-650+-orange?style=for-the-badge&logo=codechef" />
-<img src="https://img.shields.io/badge/Codeforces-Beginner-blue?style=for-the-badge&logo=codeforces" />
+<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-220%2B-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-650%2B-orange?style=for-the-badge&logo=codechef" />
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-Beginner-0052CC?style=for-the-badge&logo=codeforces" />
+</a>
 
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 🔗 Codolio Profile  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <a href="https://codolio.com/profile/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-View%20Profile-6A00FF?style=for-the-badge" />
+  </a>
 </p>
+
+---
+
+## 📬 Connect  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge" />
+</a>
+
 </p>
-
----
-
-## 📜 Certifications  
-
-✔ Infosys – Java Foundation  
-✔ Cisco – Python Essentials  
-✔ Juniper – Mist AI  
-✔ Coursera – Web Development  
-
----
-
-## 🌍 Extra  
-
-🌸 Learning Japanese  
-🤝 Helping juniors in coding  
-💡 Love solving real-world problems  
-
----
-
-## 📬 Contact  
-
-📧 kowsalyaselvaraj1003@gmail.com  
-
----
